@@ -1,5 +1,5 @@
-# Counter Measure
-Counter Measure is a GUI application supporting XIA's Ultra-Lo 1800 alpha counter. 
+# CounterMeasure
+CounterMeasure is a GUI application supporting XIA's UltraLo 1800 alpha counter. 
 
 ## Note on .NET Support
 .NET 4.5 (v1.1.32 and later): Installation of CounterMeasure v1.1.32 and later 
